@@ -22,4 +22,4 @@ Deploy ```target/WebApp.war``` on Tomcat
  
 Add instruction to deploy to ElasticBeanstalk
 
-#trigger automatic build in jenkins
+#trigger automatic build in jenkins 
